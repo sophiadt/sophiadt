@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophia!
 - 👀 I’m interested in exploring the field of computer science
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Linux
 
 <!---
 sophiadt/sophiadt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
