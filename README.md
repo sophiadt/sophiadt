@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sophia!
-- 👀 I’m interested in exploring the field of computer science
-- 🌱 I’m currently learning C and Linux
+# Hello! I'm Sophia and welcome to my Github :computer:
 
-<!---
-sophiadt/sophiadt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently in my first year doing computer science so I'm learning and exploring the foundations.
+
+## About me
+* 🌱 I’m currently learning C and Linux
+* :desktop_computer: I'm currently working with Project Tech Conferences as a frontend developer
+* :sparkles: I want to continue my personal projects once the school semester is over
