@@ -1,4 +1,4 @@
-# Hello! I'm Sophia and welcome to my Github :computer:
+# Hello! I'm Sophia and welcome to my GitHub :computer:
 
 I'm currently in my first year doing computer science so I'm learning and exploring the foundations.
 
