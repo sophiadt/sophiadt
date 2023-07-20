@@ -1,8 +1,9 @@
 # Hello! I'm Sophia and welcome to my GitHub :computer:
 
-I'm currently in my first year doing computer science so I'm learning and exploring the foundations.
+I'm currently in my second year of computer science. Although I'm still exploring, I have an interest in software development, game development, AI, and UI/UX design.
 
 ## About me
-* 🌱 I’m currently learning C, C++, Python, and Linux
+* 🌱 I’m currently learning Assembly, C++, React, JavaScript, and Java
+* :book: I'm proficient at Python, HTML/CSS, C, and SQL
 * :desktop_computer: I'm currently working with Project Tech Conferences as a front-end developer
 * :sparkles: I want to continue my personal projects once the school semester is over
